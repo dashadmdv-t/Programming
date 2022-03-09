@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_153501_Demidova/1.0.0": {
+        "runtime": {
+          "_153501_Demidova.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_153501_Demidova/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
