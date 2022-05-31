@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="task1.Toys">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAVAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Toys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task1.Robot">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAVAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Toys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task1.Barbie">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACVAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Toys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task1.Shark">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAVAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Toys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task1.Ball">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAVAQCAAAACAAAAAAA=</HashCode>
+      <FileName>Toys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

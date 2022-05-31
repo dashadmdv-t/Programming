@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="task1.Rate" BaseTypeListCollapsed="true">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hostel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.208" Collapsed="true" />
+  </Class>
+  <Class Name="task1.DiscountRate" BaseTypeListCollapsed="true">
+    <Position X="2" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Hostel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.358" Collapsed="true" />
+  </Class>
+  <Class Name="task1.Number">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAEAAAABAQAAABAAAIQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hostel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task1.Hostel">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAgAAAAAEAQAAAAAAAQBAAAAEAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Hostel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="task1.IRate">
+    <Position X="1.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hostel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
