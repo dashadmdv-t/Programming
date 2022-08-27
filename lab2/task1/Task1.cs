@@ -21,6 +21,8 @@ namespace task1
         static void Main()
         {
 
+	Console.WriteLine("HELLO WORLD!!!");
+		
             while (true)
             {
                 Console.WriteLine("Введите длины сторон a, b, c");
