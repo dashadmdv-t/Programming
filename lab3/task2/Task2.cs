@@ -9,6 +9,7 @@ namespace task2
     {
         static void Main(string[] args)
         {
+		Console.WriteLine("i definitely need help :cccc");
 
             while (true)
             {
