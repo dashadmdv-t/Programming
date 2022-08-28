@@ -11,6 +11,8 @@ namespace task2
         {
 		Console.WriteLine("i definitely need help :cccc");
 
+		Console.WriteLine("i don't understand git");
+
             while (true)
             {
                 Console.WriteLine("Введите z, b");
